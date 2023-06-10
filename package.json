@@ -1,0 +1,24 @@
+{
+  "name": "api",
+  "version": "0.0.0",
+  "private": true,
+  "scripts": {
+    "dev": "vite",
+    "build": "vite build",
+    "preview": "vite preview"
+  },
+  "dependencies": {
+    "@vue/composition-api": "^1.7.1",
+    "@vueblocks/vue-use-core": "^0.2.11",
+    "animate.css": "^4.1.1",
+    "axios": "^1.4.0",
+    "vue": "^3.3.2"
+  },
+  "devDependencies": {
+    "@vitejs/plugin-vue": "^4.2.3",
+    "@vitejs/plugin-vue-jsx": "^3.0.1",
+    "sass": "^1.63.3",
+    "sass-loader": "^13.3.2",
+    "vite": "^4.3.5"
+  }
+}
